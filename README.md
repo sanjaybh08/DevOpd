@@ -1,2 +1,2 @@
-# DevOpd
-DevOps Documents from Training
+# devops_docs
+Step By Step Notes and Practical Examples 

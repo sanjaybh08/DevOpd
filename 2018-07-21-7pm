@@ -1,0 +1,18 @@
+# python --version
+# pip --version
+# aws --version
+# aws configure 
+# aws ec2 describe-instances
+# aws ec2 run-instances --image-id ami-cfe4b2b0 --count 1 --instance-type t2.micro --key-name cloudcicd --security-groups sg_webserver
+
+
+https://aws.amazon.com/ec2/instance-types/
+
+https://aws.amazon.com/ec2/spot/
+
+https://aws.amazon.com/ec2/spot/pricing/
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-ec2-launch.html
+
+https://docs.aws.amazon.com/cli/latest/reference/ec2/run-instances.html
+
